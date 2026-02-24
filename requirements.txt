@@ -1,0 +1,27 @@
+pandas
+chromadb
+ollama
+ipython
+jupyter
+regex
+nltk
+sentence-transformers
+
+
+Explanation::
+
+nltk → used for sentence tokenization (sent_tokenize).
+
+sentence-transformers → used for embedding generation (all-MiniLM-L6-v2).
+
+pandas → tables, DataFrame handling
+
+chromadb → vector database for embeddings
+
+ollama → local LLM runtime
+
+ipython → for Markdown display in notebook
+
+jupyter → to run notebook in VS Code/Jupyter
+
+regex → cleaning text (equations, headers, etc.)
